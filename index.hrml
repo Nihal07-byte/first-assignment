@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Webflow Agency Template</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+
+  </style>
+</head>
+<body>
+
+  <header class="header">
+    <div class="logo">LOGO</div>
+    <button class="btn small">Sign up</button>
+  </header>
+
+  <section class="hero">
+  
+    <h1>Cool Dark UI Template for<br>Webflow Agencies</h1>
+    <button class="btn">Stay focused</button>
+    </div>
+  </section>
+
+  <section class="preview">
+    <div class="text">
+      <h3>See it an Action</h3>
+      <p>Explore the live preview and imagine your brand in this bold new look!</p>
+      <button class="btn small">Launch live preview</button>
+      
+    </div>
+    <img  class="round" src="Assets/wc-mini.png" alt="wc-mini">
+  </section>
+
+  <section class="stats">
+    <h2>Join Thousands of productive Users</h2>
+    <div class="stats-grid">
+      <div><strong>50K</strong><br>Active Users</div>
+      <div><strong>2M+</strong><br>Issue sessions</div>
+      <div><strong>95%</strong><br>Satisfaction rate</div>
+    </div>
+  </section>
+
+  <section class="testimonials">
+    <h2>What our users say</h2>
+    <div class="cards">
+      <div class="card">
+        <p>⭐⭐⭐⭐⭐<br>loved by designers</p>
+
+        <div class="card-section"> 
+          <div>
+          <img src="Assets/avatar.png" alt="">
+          </div>
+          <div>
+           <p> reviewer name<br><small>data</small></p>
+          </div>
+        </div>
+       
+      </div>
+
+      <div class="card">
+  
+        <p>⭐⭐⭐⭐⭐<br>loved by designers</p>
+        <div class="card-section">
+          <div><img src="Assets/avatar.png" alt=""></div>
+        <div><p>reviewer name<br><small>data</small></p></div>
+    </div>
+      </div>
+      <div class="card">
+        <p>⭐⭐⭐⭐⭐<br>loved by designers</p>
+        <div class="card-section">
+          <div><img src="Assets/avatar.png" alt=""></div>
+        <div><p>reviewer name<br><small>data</small></p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="focus">
+    <h2>Ready to Focus better</h2>
+    <p>This template instantly levels up our presence. - Studio Vertex</p>
+    <button class="btn">Get Started Free</button>
+    <img class="round" src="Assets/wc-big.png" alt="wc-big">
+  </section>
+
+  <section class="contact">
+    <div class="contact-title">
+    <h1>Let's Get In<br>Touch</h1></div>
+    <form>
+      <label for="email">Email</label>
+
+      <input type="email" placeholder="example@gmail.com" required />
+
+      <label for="name">Name</label>
+
+      <input type="text" placeholder="Full Name" required />
+
+      <label for="message">Message</label>
+
+      <textarea placeholder="Write your message"></textarea>
+      <button class="btn" type="submit">Get In Touch</button>
+    </form>
+  </section>
+
+  <footer class="footer">
+    <div class="logo">LOGO</div>
+    <p>Ready to elevate your presence? Contact us today to elevate your product and showcase it with confidence.</p>
+    <nav>
+      <a href="#">About</a>
+      <a href="#">How it works</a>
+      <a href="#">Services</a>
+    </nav>
+  </footer>
+
+</body>
+</html>
+
+
+
