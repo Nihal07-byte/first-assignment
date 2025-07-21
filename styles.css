@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 1rem 2rem;
-  background-image: url(Assets/Hero-bg.png);
+  background-image: url(images/Hero-bg.png);
 }
 
 .logo {
@@ -22,8 +22,11 @@ body {
 .hero {
   text-align: center;
   padding: 3rem 2rem;
-  background-image: url(Assets/Hero-bg.png);
+  background-image: url(images/Hero-bg.png)
+  
 }
+
+
 
 .hero h1 {
   font-size: 2rem;
